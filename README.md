@@ -43,6 +43,8 @@ Plugin Docs:
 
 [Setup](https://github.com/GremlinInteractive/CoronaPaypalPlugin/tree/master/docs/setup.markdown)
 
+[Obtaining your developer credentials](https://github.com/GremlinInteractive/CoronaPaypalPlugin/tree/master/docs/credentials.markdown)
+
 [Init](https://github.com/GremlinInteractive/CoronaPaypalPlugin/tree/master/docs/init.markdown)
 
 [Config](https://github.com/GremlinInteractive/CoronaPaypalPlugin/tree/master/docs/config.markdown)
